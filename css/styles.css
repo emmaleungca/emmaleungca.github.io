@@ -10848,6 +10848,7 @@ aside,
 section {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  overflow: auto;
 }
 
 .app-badge {
