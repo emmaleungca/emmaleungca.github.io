@@ -145,7 +145,7 @@ h4, .h4 {
   }
 }
 
-h5, .h5 {
+h5, .h5 ,.skills-table{
   font-size: 1.25rem;
 }
 
@@ -11089,8 +11089,4 @@ footer a:hover, footer a:active, footer a:focus {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 17rem;
   }
-}
-.landing-top-image {
-  max-width: 50%;
-  padding-bottom: 40px;
 }

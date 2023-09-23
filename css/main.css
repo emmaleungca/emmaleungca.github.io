@@ -1,0 +1,40 @@
+.landing-top-image {
+    max-width: 50%;
+    padding-bottom: 40px;
+}
+
+td:nth-child(1) {
+    text-align: right;
+    width: 20%;
+}
+td:nth-child(2) {
+    text-align: left;
+    width: 80%;
+}
+
+@media (min-width: 1200px) {
+    td:nth-child(1) {
+        width: 40%;
+    }
+    td:nth-child(2) {
+        width: 60%;
+    }
+    
+}
+
+.skills-table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 50px 10px;
+}
+
+.skills-table {
+    font-size: 1rem;
+}
+
+@media (min-width: 1200px) {
+    .skills-table {
+        font-size: 1.25rem;
+    }
+}
