@@ -43,3 +43,8 @@ td:nth-child(2) {
         font-size: 1.25rem;
     }
 }
+
+.work-exp-title {
+    text-align: center;
+    padding: 1em;
+}
